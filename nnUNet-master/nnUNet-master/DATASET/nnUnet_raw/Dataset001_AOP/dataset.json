@@ -1,0 +1,12 @@
+{
+    "channel_names":{
+
+    },
+    "labels":{
+        "background":0,
+        "ps":1,
+        "fh":2
+    },
+    "numTraining":4000,
+    "file_ending":".mha"
+}
